@@ -1,7 +1,7 @@
 *Istanbul Technical University  
 MBL 549E - Special Top.in Arch.Des.Comp. <br/>
 Tutor: Özgün Balaban <br/>
-Works of Barış Terzi & Ozan Balcı* 
+Final Project of Barış Terzi & Ozan Balcı* 
 
 <br/>
 
@@ -67,7 +67,7 @@ At this stage, the code is trained partially of map data which includes images o
 <br/>
 
 ## Presentation  
-To 
+To compherend the entire process, final presentation of the project is avaible below.
 
 
 **[Go to the presentation.](https://github.com/balciozan/cycleGAN_GameMapGenerator/tree/master/Presentation)** 
@@ -77,4 +77,6 @@ To
 <br/>
 
 ## GIF  
-*Work in progress...*
+As an final example, historical peninsula of Istanbul is studied. Below, convertion phases of map generation can be seen.
+
+![](historicalpeninsula_istanbul.gif)
