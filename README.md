@@ -11,7 +11,7 @@ Works of Barış Terzi & Ozan Balcı*
 * [Introduction](#introduction)  
 * [cycleGAN_mix](#cycleGAN_mix)  
 * [cycleGAN_onlyLands](#cycleGAN_onlyLands)  
-* [cycleGAN_landsAndSeas](#cycleGAN_landsAndSeas)
+* [cycleGAN_seasAndLands](#cycleGAN_seasAndLands)
 * [Presentation](#presentation)
 * [GIF](#gif)
 
@@ -30,7 +30,8 @@ Two main steps occur in the flowchart: <br/>
 - Picking aerial or satellite images of the desirable location;
 - Converting it into the game map.
 
-CycleGan method is used to achieve the objective. For this purpose, open source model of Jun-Yan Zhu is used.
+CycleGan method is used to achieve the objective. For this purpose, open source model of Jun-Yan Zhu is used. <br/>
+**[Source.](https://junyanz.github.io/CycleGAN/)**
 
 <br/>
 
@@ -44,34 +45,36 @@ Unsolved Problems are:
 - 'Year' information comes within paranthesis and it can not be removed.
 - Some information such as 'Director, Gross, IMDB Rating' can not be pulled from the website.
 
-**[Go to homework.](https://github.com/balciozan/MBL_OzanBalci/tree/master/imdb_top_50)**
+**[Go to the code.](https://github.com/balciozan/cycleGAN_GameMapGenerator/tree/master/cycleGAN_mix)**
 
 <br/>
 
 <br/>
 
 ## cycleGAN_onlyLands  
-Examples written below have been studied to understand the operating logic of percepterons.
-- ANDpercepteron
-- NANDpercepteron
-- NOTpercepteron
 
-**[Go to homework.](https://github.com/balciozan/MBL_OzanBalci/tree/master/Percepteron%20Exercies)**  
-**[Go to homework (gColaboratory).](https://drive.google.com/drive/folders/1TmGQCd6Rwl8KUgmzAyluerX-9WxKdCTi?usp=sharing)**
+
+**[Go to the code.](https://github.com/balciozan/cycleGAN_GameMapGenerator/tree/master/cycleGAN_onlyLands/real2game)**  
 
 <br/>
 
 <br/>
 
-## cycleGAN_landsAndSeas  
+## cycleGAN_seasAndLands  
 *Work in progress...*
+
+
+**[Go to the code.](https://github.com/balciozan/cycleGAN_GameMapGenerator/tree/master/cycleGAN_seasAndLands/real2game)**  
 
 <br/>
 
 <br/>
 
 ## Presentation  
-*Work in progress...*
+
+
+
+**[Go to the presentation.](https://github.com/balciozan/cycleGAN_GameMapGenerator/tree/master/Presentation)** 
 
 <br/>
 
