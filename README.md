@@ -23,7 +23,14 @@ Works of Barış Terzi & Ozan Balcı*
 <br/>  
 
 ## Introduction  
-This gitHub page is created to submit and share the homeworks, projects & exercises have been done in Machine Learning Course which is instructed by Özgün Balaban.
+This gitHub page is created to submit and share the final project have been done by Barış Terzi & Ozan Balcı in Machine Learning Course which is instructed by Özgün Balaban.
+
+Purpose is to generate game maps alike map of the game 'Assassins Creed: Origin'. <br/>
+Two main steps occur in the flowchart: <br/>
+- Picking aerial or satellite images of the desirable location;
+- Converting it into the game map.
+
+CycleGan method is used to achieve the objective. For this purpose, open source model of Jun-Yan Zhu is used.
 
 <br/>
 
@@ -57,6 +64,13 @@ Examples written below have been studied to understand the operating logic of pe
 <br/>
 
 ## cycleGAN_landsAndSeas  
+*Work in progress...*
+
+<br/>
+
+<br/>
+
+## Presentation  
 *Work in progress...*
 
 <br/>
