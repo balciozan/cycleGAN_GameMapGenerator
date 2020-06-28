@@ -4,7 +4,9 @@ Tutor: Özgün Balaban <br/>
 Final Project of Barış Terzi & Ozan Balcı* 
 
 <br/>
-**[Githob Repository.](https://github.com/balciozan/cycleGAN_GameMapGenerator)**
+
+**[Github Repository.](https://github.com/balciozan/cycleGAN_GameMapGenerator)**
+
 <br/>
 
 <br/>
