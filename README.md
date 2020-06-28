@@ -1,8 +1,6 @@
 *Istanbul Technical University  
-MBL 549E - Special Top.in Arch.Des.Comp.
-
-Tutor: Özgün Balaban
-
+MBL 549E - Special Top.in Arch.Des.Comp. <br/>
+Tutor: Özgün Balaban <br/>
 Works of Barış Terzi & Ozan Balcı* 
 
 <br/>
