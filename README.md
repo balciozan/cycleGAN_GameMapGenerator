@@ -30,7 +30,8 @@ Two main steps occur in the flowchart: <br/>
 - Picking aerial or satellite images of the desirable location;
 - Converting it into the game map.
 
-CycleGan method is used to achieve the objective. For this purpose, open source model of Jun-Yan Zhu is used. <br/>
+CycleGan method is used to achieve the objective. For this purpose, open source model of Jun-Yan Zhu is used.
+
 **[Source.](https://junyanz.github.io/CycleGAN/)**
 
 <br/>
@@ -38,12 +39,7 @@ CycleGan method is used to achieve the objective. For this purpose, open source 
 <br/>
 
 ## cycleGan_mix  
-'Rank, Name, Year, Duration' information of the Top 50 Movies of IMDB has been scrapped from the IMDB website and written in a .csv file.
-
-Unsolved Problems are:
-- Since ',' is a seperator in .csv, movie names which include ',' are seperated to different shells involuntarily.
-- 'Year' information comes within paranthesis and it can not be removed.
-- Some information such as 'Director, Gross, IMDB Rating' can not be pulled from the website.
+At this stage, the code is trained with mixed (lands and seas) map data. In training, "Bing" data is used.
 
 **[Go to the code.](https://github.com/balciozan/cycleGAN_GameMapGenerator/tree/master/cycleGAN_mix)**
 
@@ -52,7 +48,7 @@ Unsolved Problems are:
 <br/>
 
 ## cycleGAN_onlyLands  
-
+At this stage, the code is trained partially of map data which includes images of the lands. In training, "Bing" data is used.
 
 **[Go to the code.](https://github.com/balciozan/cycleGAN_GameMapGenerator/tree/master/cycleGAN_onlyLands/real2game)**  
 
@@ -61,7 +57,7 @@ Unsolved Problems are:
 <br/>
 
 ## cycleGAN_seasAndLands  
-*Work in progress...*
+At this stage, the code is trained partially of map data which includes images of the seas and seas with the lands. In training, "Bing" data is used.
 
 
 **[Go to the code.](https://github.com/balciozan/cycleGAN_GameMapGenerator/tree/master/cycleGAN_seasAndLands/real2game)**  
@@ -71,7 +67,7 @@ Unsolved Problems are:
 <br/>
 
 ## Presentation  
-
+To 
 
 
 **[Go to the presentation.](https://github.com/balciozan/cycleGAN_GameMapGenerator/tree/master/Presentation)** 
